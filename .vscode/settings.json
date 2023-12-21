@@ -1,0 +1,12 @@
+{
+    "vue.splitEditors.layout.left": [
+        "script",
+        "scriptSetup",
+        "styles"
+    ],
+    "eslint.workingDirectories": [
+        {
+            "mode": "auto"
+        }
+    ],
+}
